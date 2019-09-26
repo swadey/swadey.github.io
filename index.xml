@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Wade Shen</title>
+    <link>https://swadey.github.io/</link>
+    <description>Recent content in Home on Wade Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://swadey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human error rates for speaker recognition</title>
+      <link>https://swadey.github.io/publications/2011-human-error-rates-for-speaker-recognition/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-human-error-rates-for-speaker-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advocate: A Distributed Architecture for Speech-to-Speech Translation</title>
+      <link>https://swadey.github.io/publications/2009-advocate-a-distributed-architecture-for-speechtospeech-translation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-advocate-a-distributed-architecture-for-speechtospeech-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an interagency language roundtable based assessment of speech-to-speech translation capabilities</title>
+      <link>https://swadey.github.io/publications/2006-toward-an-interagency-language-roundtable-based-assessment-of-speechtospeech-translation-capabilities/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-toward-an-interagency-language-roundtable-based-assessment-of-speechtospeech-translation-capabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding good enough: A task-based evaluation of query biased summarization for cross-language information retrieval</title>
+      <link>https://swadey.github.io/publications/2014-finding-good-enough-a-taskbased-evaluation-of-query-biased-summarization-for-crosslanguage-information-retrieval/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2014-finding-good-enough-a-taskbased-evaluation-of-query-biased-summarization-for-crosslanguage-information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing and interpreting automatically learned rules across dialects</title>
+      <link>https://swadey.github.io/publications/2012-analyzing-and-interpreting-automatically-learned-rules-across-dialects/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2012-analyzing-and-interpreting-automatically-learned-rules-across-dialects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved phrase translation modeling using MAP adaptation</title>
+      <link>https://swadey.github.io/publications/2012-improved-phrase-translation-modeling-using-map-adaptation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2012-improved-phrase-translation-modeling-using-map-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing deletion transformations across dialects using a sophisticated tying mechanism</title>
+      <link>https://swadey.github.io/publications/2011-characterizing-deletion-transformations-across-dialects-using-a-sophisticated-tying-mechanism/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-characterizing-deletion-transformations-across-dialects-using-a-sophisticated-tying-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap between Linguists and Technology Developers: Large-Scale, Sociolinguistic Annotation for Dialect and Speaker Recognition.</title>
+      <link>https://swadey.github.io/publications/2008-bridging-the-gap-between-linguists-and-technology-developers-largescale-sociolinguistic-annotation-for-dialect-and-speaker-recognition/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-bridging-the-gap-between-linguists-and-technology-developers-largescale-sociolinguistic-annotation-for-dialect-and-speaker-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-resource speech translation of Urdu to English using semi-supervised part-of-speech tagging and transliteration</title>
+      <link>https://swadey.github.io/publications/2008-lowresource-speech-translation-of-urdu-to-english-using-semisupervised-partofspeech-tagging-and-transliteration/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-lowresource-speech-translation-of-urdu-to-english-using-semisupervised-partofspeech-tagging-and-transliteration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MITLL-AFRL IWSLT 2014 MT System</title>
+      <link>https://swadey.github.io/publications/2014-the-mitllafrl-iwslt-2014-mt-system/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2014-the-mitllafrl-iwslt-2014-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of speaker clustering and speech recognition techniques for air situational awareness</title>
+      <link>https://swadey.github.io/publications/2007-a-comparison-of-speaker-clustering-and-speech-recognition-techniques-for-air-situational-awareness/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-a-comparison-of-speaker-clustering-and-speech-recognition-techniques-for-air-situational-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/AFRL MT System</title>
+      <link>https://swadey.github.io/publications/2005-the-mitllafrl-mt-system/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2005-the-mitllafrl-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine translation for government applications</title>
+      <link>https://swadey.github.io/publications/2009-machine-translation-for-government-applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-machine-translation-for-government-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and characterization of the non-native military air traffic communications database (nnMATC)</title>
+      <link>https://swadey.github.io/publications/2007-design-and-characterization-of-the-nonnative-military-air-traffic-communications-database-nnmatc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-design-and-characterization-of-the-nonnative-military-air-traffic-communications-database-nnmatc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing a high and low-level deep neural network implementation for automatic speech recognition</title>
+      <link>https://swadey.github.io/publications/2014-comparing-a-high-and-lowlevel-deep-neural-network-implementation-for-automatic-speech-recognition/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2014-comparing-a-high-and-lowlevel-deep-neural-network-implementation-for-automatic-speech-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two experiments comparing reading with listening for human processing of conversational telephone speech</title>
+      <link>https://swadey.github.io/publications/2005-two-experiments-comparing-reading-with-listening-for-human-processing-of-conversational-telephone-speech/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2005-two-experiments-comparing-reading-with-listening-for-human-processing-of-conversational-telephone-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of factors affecting system performance in the aspire challenge</title>
+      <link>https://swadey.github.io/publications/2015-analysis-of-factors-affecting-system-performance-in-the-aspire-challenge/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2015-analysis-of-factors-affecting-system-performance-in-the-aspire-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When to punt on speaker comparison?</title>
+      <link>https://swadey.github.io/publications/2011-when-to-punt-on-speaker-comparison/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-when-to-punt-on-speaker-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/AFRL IWSLT-2011 MT System</title>
+      <link>https://swadey.github.io/publications/2011-the-mitllafrl-iwslt2011-mt-system/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-the-mitllafrl-iwslt2011-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a phonotactic dialect corpus using semiautomatic annotation</title>
+      <link>https://swadey.github.io/publications/2007-construction-of-a-phonotactic-dialect-corpus-using-semiautomatic-annotation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-construction-of-a-phonotactic-dialect-corpus-using-semiautomatic-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Text Difficulty on Machine Translation Performance--A Pilot Study with ILR-Rated texts in Spanish, Farsi, Arabic, Russian and Korean</title>
+      <link>https://swadey.github.io/publications/2004-the-effect-of-text-difficulty-on-machine-translation-performancea-pilot-study-with-ilrrated-texts-in-spanish-farsi-arabic-russian-and-korean/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2004-the-effect-of-text-difficulty-on-machine-translation-performancea-pilot-study-with-ilrrated-texts-in-spanish-farsi-arabic-russian-and-korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting morphological, grammatical, and semantic correlates for improved text difficulty assessment</title>
+      <link>https://swadey.github.io/publications/2014-exploiting-morphological-grammatical-and-semantic-correlates-for-improved-text-difficulty-assessment/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2014-exploiting-morphological-grammatical-and-semantic-correlates-for-improved-text-difficulty-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the speaker recognition performance of naive listeners using mechanical turk</title>
+      <link>https://swadey.github.io/publications/2011-assessing-the-speaker-recognition-performance-of-naive-listeners-using-mechanical-turk/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-assessing-the-speaker-recognition-performance-of-naive-listeners-using-mechanical-turk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale analysis of formant frequency estimation variability in conversational telephone speech</title>
+      <link>https://swadey.github.io/publications/2009-largescale-analysis-of-formant-frequency-estimation-variability-in-conversational-telephone-speech/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-largescale-analysis-of-formant-frequency-estimation-variability-in-conversational-telephone-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USSS-MITLL 2010 human assisted speaker recognition</title>
+      <link>https://swadey.github.io/publications/2011-usssmitll-2010-human-assisted-speaker-recognition/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-usssmitll-2010-human-assisted-speaker-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two protocols comparing human and machine phonetic recognition performance in conversational speech</title>
+      <link>https://swadey.github.io/publications/2008-two-protocols-comparing-human-and-machine-phonetic-recognition-performance-in-conversational-speech/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-two-protocols-comparing-human-and-machine-phonetic-recognition-performance-in-conversational-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ILR-based MT comprehension test with multi-level questions</title>
+      <link>https://swadey.github.io/publications/2007-ilrbased-mt-comprehension-test-with-multilevel-questions/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-ilrbased-mt-comprehension-test-with-multilevel-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring translation quality by testing English speakers with a new defense language proficiency test for Arabic</title>
+      <link>https://swadey.github.io/publications/2005-measuring-translation-quality-by-testing-english-speakers-with-a-new-defense-language-proficiency-test-for-arabic/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2005-measuring-translation-quality-by-testing-english-speakers-with-a-new-defense-language-proficiency-test-for-arabic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informative dialect recognition using context-dependent pronunciation modeling</title>
+      <link>https://swadey.github.io/publications/2011-informative-dialect-recognition-using-contextdependent-pronunciation-modeling/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-informative-dialect-recognition-using-contextdependent-pronunciation-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced language recognition using cepstra and phonotactics: MITLL system performance on the NIST 2005 language recognition evaluation</title>
+      <link>https://swadey.github.io/publications/2006-advanced-language-recognition-using-cepstra-and-phonotactics-mitll-system-performance-on-the-nist-2005-language-recognition-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-advanced-language-recognition-using-cepstra-and-phonotactics-mitll-system-performance-on-the-nist-2005-language-recognition-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialect recognition using adapted phonetic models</title>
+      <link>https://swadey.github.io/publications/2008-dialect-recognition-using-adapted-phonetic-models/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-dialect-recognition-using-adapted-phonetic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JHU workshop 2006 IWSLT system</title>
+      <link>https://swadey.github.io/publications/2006-the-jhu-workshop-2006-iwslt-system/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-the-jhu-workshop-2006-iwslt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving phonotactic language recognition with acoustic adaptation</title>
+      <link>https://swadey.github.io/publications/2007-improving-phonotactic-language-recognition-with-acoustic-adaptation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-improving-phonotactic-language-recognition-with-acoustic-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved GMM-based language recognition using constrained MLLR transforms</title>
+      <link>https://swadey.github.io/publications/2008-improved-gmmbased-language-recognition-using-constrained-mllr-transforms/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-improved-gmmbased-language-recognition-using-constrained-mllr-transforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A linguistically-informative approach to dialect recognition using dialect-discriminating context-dependent phonetic models</title>
+      <link>https://swadey.github.io/publications/2010-a-linguisticallyinformative-approach-to-dialect-recognition-using-dialectdiscriminating-contextdependent-phonetic-models/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2010-a-linguisticallyinformative-approach-to-dialect-recognition-using-dialectdiscriminating-contextdependent-phonetic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic language recognition via spectral and token based approaches</title>
+      <link>https://swadey.github.io/publications/2008-automatic-language-recognition-via-spectral-and-token-based-approaches/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-automatic-language-recognition-via-spectral-and-token-based-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source toolkit for statistical machine translation: Factored translation models and confusion network decoding</title>
+      <link>https://swadey.github.io/publications/2006-open-source-toolkit-for-statistical-machine-translation-factored-translation-models-and-confusion-network-decoding/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-open-source-toolkit-for-statistical-machine-translation-factored-translation-models-and-confusion-network-decoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/AFRL IWSLT-2010 MT System</title>
+      <link>https://swadey.github.io/publications/2011-the-mitllafrl-iwslt2010-mt-system/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2011-the-mitllafrl-iwslt2010-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring human readability of machine generated text: three case studies in speech recognition and machine translation</title>
+      <link>https://swadey.github.io/publications/2005-measuring-human-readability-of-machine-generated-text-three-case-studies-in-speech-recognition-and-machine-translation/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2005-measuring-human-readability-of-machine-generated-text-three-case-studies-in-speech-recognition-and-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/IBM 2006 speaker recognition system: High-performance reduced-complexity recognition</title>
+      <link>https://swadey.github.io/publications/2007-the-mitllibm-2006-speaker-recognition-system-highperformance-reducedcomplexity-recognition/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-the-mitllibm-2006-speaker-recognition-system-highperformance-reducedcomplexity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments with lattice-based PPRLM language identification</title>
+      <link>https://swadey.github.io/publications/2006-experiments-with-latticebased-pprlm-language-identification/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-experiments-with-latticebased-pprlm-language-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient speech translation through confusion network decoding</title>
+      <link>https://swadey.github.io/publications/2008-efficient-speech-translation-through-confusion-network-decoding/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2008-efficient-speech-translation-through-confusion-network-decoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end training of differentiable pipelines across machine learning frameworks</title>
+      <link>https://swadey.github.io/publications/2017-endtoend-training-of-differentiable-pipelines-across-machine-learning-frameworks/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2017-endtoend-training-of-differentiable-pipelines-across-machine-learning-frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A language-independent approach to automatic text difficulty assessment for second-language learners</title>
+      <link>https://swadey.github.io/publications/2013-a-languageindependent-approach-to-automatic-text-difficulty-assessment-for-secondlanguage-learners/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2013-a-languageindependent-approach-to-automatic-text-difficulty-assessment-for-secondlanguage-learners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing phonetic transformations and acoustic differences across english dialects</title>
+      <link>https://swadey.github.io/publications/2013-characterizing-phonetic-transformations-and-acoustic-differences-across-english-dialects/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2013-characterizing-phonetic-transformations-and-acoustic-differences-across-english-dialects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of query-by-example methods for spoken term detection</title>
+      <link>https://swadey.github.io/publications/2009-a-comparison-of-querybyexample-methods-for-spoken-term-detection/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-a-comparison-of-querybyexample-methods-for-spoken-term-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://swadey.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Speaker verification using support vector machines and high-level features</title>
+      <link>https://swadey.github.io/publications/2007-speaker-verification-using-support-vector-machines-and-highlevel-features/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-speaker-verification-using-support-vector-machines-and-highlevel-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forensic speaker recognition</title>
+      <link>https://swadey.github.io/publications/2009-forensic-speaker-recognition/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-forensic-speaker-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query-by-example spoken term detection using phonetic posteriorgram templates</title>
+      <link>https://swadey.github.io/publications/2009-querybyexample-spoken-term-detection-using-phonetic-posteriorgram-templates/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2009-querybyexample-spoken-term-detection-using-phonetic-posteriorgram-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://swadey.github.io/projects/contributions/shields-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://swadey.github.io/projects/contributions/schema-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Moses: Open source toolkit for statistical machine translation</title>
+      <link>https://swadey.github.io/publications/2007-moses-open-source-toolkit-for-statistical-machine-translation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2007-moses-open-source-toolkit-for-statistical-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://swadey.github.io/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://swadey.github.io/projects/creations/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>Operational Assessment of Keyword Search on Oral History</title>
+      <link>https://swadey.github.io/publications/2016-operational-assessment-of-keyword-search-on-oral-history/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2016-operational-assessment-of-keyword-search-on-oral-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/AFRL IWSLT-2013 MT System</title>
+      <link>https://swadey.github.io/publications/2013-the-mitllafrl-iwslt2013-mt-system/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2013-the-mitllafrl-iwslt2013-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT-LL/AFRL IWSLT-2012 MT System</title>
+      <link>https://swadey.github.io/publications/2012-the-mitllafrl-iwslt2012-mt-system/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2012-the-mitllafrl-iwslt2012-mt-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient graph search decoder for phrase-based statistical machine translation</title>
+      <link>https://swadey.github.io/publications/2006-an-efficient-graph-search-decoder-for-phrasebased-statistical-machine-translation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-an-efficient-graph-search-decoder-for-phrasebased-statistical-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental facility for measuring the impact of environmental noise and speaker variation on speech-to-speech translation devices</title>
+      <link>https://swadey.github.io/publications/2006-experimental-facility-for-measuring-the-impact-of-environmental-noise-and-speaker-variation-on-speechtospeech-translation-devices/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/publications/2006-experimental-facility-for-measuring-the-impact-of-environmental-noise-and-speaker-variation-on-speechtospeech-translation-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atlassian Marketplace Plugins</title>
+      <link>https://swadey.github.io/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/projects/creations/marketplace/</guid>
+      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+    </item>
+    
+    <item>
+      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
+      <link>https://swadey.github.io/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/projects/creations/docker-marketplace/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://swadey.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
