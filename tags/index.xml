@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wade Shen</title>
@@ -6,26 +6,13 @@
     <description>Recent content in Tags on Wade Shen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
-    
-	<atom:link href="https://swadey.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://swadey.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlassian Ecosystem</title>
       <link>https://swadey.github.io/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://swadey.github.io/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash/Shell</title>
-      <link>https://swadey.github.io/tags/bash/shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://swadey.github.io/tags/bash/shell/</guid>
       <description></description>
     </item>
     
@@ -66,7 +53,7 @@
     </item>
     
     <item>
-      <title>Python</title>
+      <title>python</title>
       <link>https://swadey.github.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -80,15 +67,6 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://swadey.github.io/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://swadey.github.io/tags/xml/xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://swadey.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
@@ -107,6 +85,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://swadey.github.io/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash/shell</title>
+      <link>https://swadey.github.io/tags/bash/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/tags/bash/shell/</guid>
       <description></description>
     </item>
     
@@ -197,6 +184,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://swadey.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xml/xslt</title>
+      <link>https://swadey.github.io/tags/xml/xslt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swadey.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
